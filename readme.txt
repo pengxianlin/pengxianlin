@@ -7,4 +7,9 @@ testing dev2
 =======
 hyou are my hero
 >>>>>>> dev2
+<<<<<<< HEAD
 testing dev2
+=======
+testing dev1
+>>>>>>> dev1
+~~~~~~~~~~~~~~~~~~~~~
